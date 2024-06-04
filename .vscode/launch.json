@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<websocket-session-manager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ltd.jellyfish.App",
+            "projectName": "websocket-session-manager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
